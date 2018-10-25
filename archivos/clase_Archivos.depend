@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1540342232 source:/home/profesor/Descargas/clase_Archivos/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1540342036 source:/home/profesor/Descargas/clase_Archivos/cliente.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540342036 /home/profesor/Descargas/clase_Archivos/cliente.h
+
+1540426923 source:/home/alumno/Escritorio/archivos/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1540343297 /home/alumno/Escritorio/archivos/cliente.h
+
+1540426745 source:/home/alumno/Escritorio/archivos/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1540423738 /home/alumno/Escritorio/archivos/utn.h
+
+1540425792 source:/home/alumno/Escritorio/archivos/cliente.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
